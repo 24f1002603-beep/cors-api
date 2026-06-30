@@ -4,7 +4,7 @@ from fastapi.responses import JSONResponse
 import uuid
 import time
 
-EMAIL = "23f3001234@ds.study.iitm.ac.in"
+EMAIL = "24f1002603@ds.study.iitm.ac.in"
 
 ALLOWED_ORIGIN = "https://dash-ptlsn4.example.com"
 
